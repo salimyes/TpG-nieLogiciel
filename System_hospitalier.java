@@ -39,6 +39,6 @@ public class System_hospitalier {
     }
 
     private String comparerDonnes() {
-        
+	return "Cluster trouvé"; //retourne le texte "Cluster trouvé"        
 
 }
